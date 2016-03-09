@@ -1,0 +1,17 @@
+{
+    "name": "websocket.liu-xiao-guo",
+    "description": "description of websocket",
+    "architecture": "all",
+    "title": "websocket",
+    "hooks": {
+        "websocket": {
+            "apparmor": "websocket.apparmor",
+            "desktop":  "websocket.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

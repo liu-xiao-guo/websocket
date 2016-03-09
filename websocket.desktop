@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=websocket
+Exec=qmlscene $@ Main.qml
+Icon=websocket.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
